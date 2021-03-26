@@ -1,0 +1,39 @@
+
+
+[
+    {
+        "name":"Watsky",
+        "albums":[{"title":"All You Can Do",
+            "songs":[{"title":"Tears to Diamonds","genre":"jazz"},
+                    {"title":"The One","genre":"alternative"},
+                    {"title":"Ink Don't Bleed","genre":"r&b"},
+                    {"title":"Never Let It Die","genre":"jazz"}
+                    ],
+            "released":"2014"
+        }]
+    },
+
+    {
+        "name":"Joji",
+        "albums":[{"title":"Nectar",
+            "songs":[{"title":"Your Man","genre":"mellow"},
+                    {"title":"Daylight","genre":"alternative"},
+                    {"title":"Like You Do","genre":"mellow"},
+                    {"title":"Sanctuary","genre":"mellow"}
+                    ],
+            "released":"2020"
+        }]
+    },
+
+    {
+        "name":"Anderson .Paak",
+        "albums":[{"title":"Malibu",
+            "songs":[{"title":"Come Down","genre":"r&b"},
+                    {"title":"Celebrate","genre":"alternative"},
+                    {"title":"Heart Don't Stand a Chance","genre":"jazz"},
+                    {"title":"Am I Wrong","genre":"r&b"}
+                    ],
+            "released":"2016"
+        }]
+    }
+]
